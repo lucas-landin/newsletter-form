@@ -1,6 +1,6 @@
 # Newsletter sign-up
 
-A brief description of the project or application.
+This project is a newsletter subscription platform that allows users to stay updated and informed about the latest news and updates. With  user-friendly interface, users can easily subscribe to the newsletter by adding their email and submitting the form. Upon successful submission, a personalized success message will be displayed, confirming their subscription and providing a warm welcome.
 
 ## Features
 
