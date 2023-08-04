@@ -6,7 +6,7 @@ This project is a newsletter subscription platform that allows users to stay upd
 
 - **Email Subscription:** Users can add their email and submit the form to subscribe to the newsletter.
 
-- **Success Message:** After successfully submitting the form, users will see a confirmation message(It's just a front-end, so no emails are sent. ).
+- **Success Message:** After successfully submitting the form, users will see a confirmation message(It's just a front-end, so no emails are sent).
 
 - **Form Validation:** Users will receive form validation messages if they leave the field empty or provide an incorrectly formatted email address.
 
