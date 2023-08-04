@@ -1,5 +1,5 @@
 "use client";
-import MailForm from "./components/Mailform";
+import MailForm from "./components/MailForm";
 import ConfirmationMessage from "./components/ConfirmationMessage";
 import ImageSwitcher from "./components/ImageSwitcher";
 import { useState } from "react";
