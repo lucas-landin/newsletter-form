@@ -16,6 +16,6 @@ This project is a newsletter subscription platform that allows users to stay upd
 
 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Check out the project [https://newsletter-form-h8ea.vercel.app/](here) .
 
 
