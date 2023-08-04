@@ -16,6 +16,6 @@ This project is a newsletter subscription platform that allows users to stay upd
 
 
 
-Check out the project [here ](https://newsletter-form-h8ea.vercel.app/) .
+    Check out the project [here ](https://newsletter-form-h8ea.vercel.app/) .
 
 
